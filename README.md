@@ -57,10 +57,13 @@
 [![mhmdtallat-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=mhmdtallat-portfolio&theme=tokyonight)](https://github.com/MhmdTalat/mhmdtallat-portfolio)
 [![To-Do-List](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=To-Do-List&theme=tokyonight)](https://github.com/MhmdTalat/To-Do-List)
 
-## 🏆 Competitive Programming
+## 🧩 Problem Solving
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moohameed)
 ![Codeforces Rating](https://img.shields.io/codeforces/rating/moohameed?style=flat&logo=codeforces&logoColor=white)
 ![Codeforces Max Rating](https://img.shields.io/codeforces/max_rating/moohameed?style=flat&logo=codeforces&logoColor=white)
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhmd_Tal3at90/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mhmd_Tal3at90?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/mhmd_Tal3at90/)
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
