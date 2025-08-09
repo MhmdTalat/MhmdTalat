@@ -64,6 +64,12 @@
 ![CF Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRating&label=Max%20Rating&logo=codeforces&color=1F8ACB)
 ![CF Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRank&label=Max%20Rank&logo=codeforces&color=1F8ACB)
 
+**Codeforces highlights**
+- Problems solved (all time): 433
+- Last year: 104 · Last month: 6
+- Max streak: 14 days · Longest last year: 9 days · Last month: 2 days
+- Rating/Activity graphs: https://codeforces.com/profile/moohameed
+
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhmd_Tal3at90/)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mhmd_Tal3at90?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/mhmd_Tal3at90/)
 
