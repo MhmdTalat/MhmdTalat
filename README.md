@@ -91,7 +91,6 @@
   <!--END_SECTION:activity-->
 
   ## 🐍 Contribution Snake
-  ![GitHub Snake dark](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake-dark.svg#gh-dark-mode-only)
   ![GitHub Snake light](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg#gh-light-mode-only)
 
   ![GitHub Snake animated GIF](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.gif)
