@@ -67,7 +67,7 @@
 [![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=moohameed&theme=tokyonight)](https://codeforces.com/profile/moohameed)
 
 **Codeforces highlights**
-- Problems solved (all time): 433
+- Problems solved (all time): <!-- CF_SOLVED_START -->433<!-- CF_SOLVED_END -->
 - Last year: 104 · Last month: 6
 - Max streak: 14 days · Longest last year: 9 days · Last month: 2 days
 - Rating/Activity graphs: https://codeforces.com/profile/moohameed
