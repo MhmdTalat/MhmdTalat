@@ -1,7 +1,7 @@
 name: Update README with recent activity
 on:
   schedule:
-    - cron: '*/90 * * * *'
+    - cron: '0 */2 * * *'  # every 2 hours
   workflow_dispatch:
 permissions:
   contents: write
@@ -12,3 +12,5 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 10
