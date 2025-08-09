@@ -1,4 +1,4 @@
-name: Update Codeforces solved count
+name: Update Codeforces stats
 
 on:
   schedule:
@@ -15,27 +15,78 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
-      - name: Compute solved count from Codeforces API
-        id: cf
+      - name: Fetch submissions
+        id: fetch
         run: |
           handle=moohameed
           url="https://codeforces.com/api/user.status?handle=$handle&from=1&count=100000"
-          json=$(curl -s "$url")
-          solved=$(echo "$json" | jq -r '.result | map(select(.verdict=="OK")) | map(.problem.contestId|tostring + ":" + .problem.index) | unique | length')
-          echo "solved=$solved" >> $GITHUB_OUTPUT
-      - name: Update README marker
+          curl -s "$url" -o cf_status.json
+      - name: Compute stats
+        id: stats
         run: |
-          file="README.md"
-          solved="${{ steps.cf.outputs.solved }}"
-          perl -0777 -pe "s/(<!-- CF_SOLVED_START -->)(.*?)(<!-- CF_SOLVED_END -->)/\1${solved}\3/s" -i "$file"
+          now=$(date +%s)
+          day=$((60*60*24))
+          last30=$((now-30*day))
+          last365=$((now-365*day))
+          # Accepted unique problems overall
+          solved_all=$(jq -r '.result | map(select(.verdict=="OK")) | map(.problem.contestId|tostring + ":" + .problem.index) | unique | length' cf_status.json)
+          # Accepted submissions timestamps
+          ok_times=$(jq -r '.result | map(select(.verdict=="OK")) | map(.creationTimeSeconds) | .[]?' cf_status.json)
+          solved_30=0; solved_365=0
+          # unique accepted per problem within windows
+          solved_30=$(jq -r --argjson t $last30 '.result | map(select(.verdict=="OK" and .creationTimeSeconds>=$t)) | map(.problem.contestId|tostring + ":" + .problem.index) | unique | length' cf_status.json)
+          solved_365=$(jq -r --argjson t $last365 '.result | map(select(.verdict=="OK" and .creationTimeSeconds>=$t)) | map(.problem.contestId|tostring + ":" + .problem.index) | unique | length' cf_status.json)
+          # Build a day map for streaks
+          jq -r '.result | map(select(.verdict=="OK")) | map((.creationTimeSeconds/86400|floor)) | unique | sort | .[]' cf_status.json > days.txt
+          longest=0; cur=0; prev=-1
+          while read -r d; do
+            if [ $prev -ge 0 ] && [ $d -eq $((prev+1)) ]; then
+              cur=$((cur+1))
+            else
+              cur=1
+            fi
+            [ $cur -gt $longest ] && longest=$cur
+            prev=$d
+          done < days.txt
+          # Windowed streaks
+          longest_30=0; cur=0; prev=-1
+          for d in $(awk -v start=$((last30/86400)) '$1>=start{print}' days.txt); do
+            if [ $prev -ge 0 ] && [ $d -eq $((prev+1)) ]; then cur=$((cur+1)); else cur=1; fi
+            [ $cur -gt $longest_30 ] && longest_30=$cur
+            prev=$d
+          done
+          longest_365=0; cur=0; prev=-1
+          for d in $(awk -v start=$((last365/86400)) '$1>=start{print}' days.txt); do
+            if [ $prev -ge 0 ] && [ $d -eq $((prev+1)) ]; then cur=$((cur+1)); else cur=1; fi
+            [ $cur -gt $longest_365 ] && longest_365=$cur
+            prev=$d
+          done
+          # Save JSON for shields
+          jq -n --argjson a $solved_all --argjson y $solved_365 --argjson m $solved_30 \
+                --argjson s $longest --argjson s365 $longest_365 --argjson s30 $longest_30 \
+                '{solved_all:$a, solved_365:$y, solved_30:$m, streak_all:$s, streak_365:$s365, streak_30:$s30}' > .cf_stats.json
+          echo "solved_all=$solved_all" >> $GITHUB_OUTPUT
+          echo "solved_365=$solved_365" >> $GITHUB_OUTPUT
+          echo "solved_30=$solved_30" >> $GITHUB_OUTPUT
+          echo "streak_all=$longest" >> $GITHUB_OUTPUT
+          echo "streak_365=$longest_365" >> $GITHUB_OUTPUT
+          echo "streak_30=$longest_30" >> $GITHUB_OUTPUT
+      - name: Update README markers
+        run: |
+          perl -0777 -pe "s/(<!-- CF_SOLVED_START -->)(.*?)(<!-- CF_SOLVED_END -->)/\1${{ steps.stats.outputs.solved_all }}\3/s" -i README.md
+          perl -0777 -pe "s/(<!-- CF_SOLVED_365_START -->)(.*?)(<!-- CF_SOLVED_365_END -->)/\1${{ steps.stats.outputs.solved_365 }}\3/s" -i README.md
+          perl -0777 -pe "s/(<!-- CF_SOLVED_30_START -->)(.*?)(<!-- CF_SOLVED_30_END -->)/\1${{ steps.stats.outputs.solved_30 }}\3/s" -i README.md
+          perl -0777 -pe "s/(<!-- CF_STREAK_ALL_START -->)(.*?)(<!-- CF_STREAK_ALL_END -->)/\1${{ steps.stats.outputs.streak_all }}\3/s" -i README.md
+          perl -0777 -pe "s/(<!-- CF_STREAK_365_START -->)(.*?)(<!-- CF_STREAK_365_END -->)/\1${{ steps.stats.outputs.streak_365 }}\3/s" -i README.md
+          perl -0777 -pe "s/(<!-- CF_STREAK_30_START -->)(.*?)(<!-- CF_STREAK_30_END -->)/\1${{ steps.stats.outputs.streak_30 }}\3/s" -i README.md
       - name: Commit changes
         run: |
           if git diff --quiet; then
             echo "No changes to commit"
-            exit 0
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md .cf_stats.json
+            git commit -m "chore: update Codeforces stats"
+            git push
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update Codeforces solved count to ${{ steps.cf.outputs.solved }}"
-          git push

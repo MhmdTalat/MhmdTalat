@@ -68,15 +68,19 @@
   [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moohameed)
   ![CF Rating](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].rating&label=Codeforces%20Rating&logo=codeforces&color=1F8ACB&v=2)
   ![CF Rank](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].rank&label=Codeforces%20Rank&logo=codeforces&color=1F8ACB&v=2)
-  ![CF Max Rating](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRating&label=Max%20Rating&logo=codeforces&color=1F8ACB&v=2)
-  ![CF Max Rank](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRank&label=Max%20Rank&logo=codeforces&color=1F8ACB&v=2)
+  ![Solved (all)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/main/.cf_stats.json&query=solved_all&label=Solved%20(all)&logo=codeforces&color=1F8ACB)
+  ![Solved (last year)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/main/.cf_stats.json&query=solved_365&label=Solved%20(365d)&logo=codeforces&color=1F8ACB)
+  ![Solved (30d)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/main/.cf_stats.json&query=solved_30&label=Solved%20(30d)&logo=codeforces&color=1F8ACB)
+  ![Longest streak](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/main/.cf_stats.json&query=streak_all&label=Longest%20streak&logo=codeforces&color=1F8ACB)
+  ![Streak (365d)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/main/.cf_stats.json&query=streak_365&label=Streak%20(365d)&logo=codeforces&color=1F8ACB)
+  ![Streak (30d)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/main/.cf_stats.json&query=streak_30&label=Streak%20(30d)&logo=codeforces&color=1F8ACB)
 
   [![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=moohameed&theme=tokyonight)](https://codeforces.com/profile/moohameed)
 
   **Codeforces highlights**
   - Problems solved (all time): <!-- CF_SOLVED_START -->433<!-- CF_SOLVED_END -->
-  - Last year: 104 · Last month: 6
-  - Max streak: 14 days · Longest last year: 9 days · Last month: 2 days
+  - Last year: <!-- CF_SOLVED_365_START -->104<!-- CF_SOLVED_365_END --> · Last month: <!-- CF_SOLVED_30_START -->6<!-- CF_SOLVED_30_END -->
+  - Max streak: <!-- CF_STREAK_ALL_START -->14<!-- CF_STREAK_ALL_END --> days · Longest last year: <!-- CF_STREAK_365_START -->9<!-- CF_STREAK_365_END --> days · Last month: <!-- CF_STREAK_30_START -->2<!-- CF_STREAK_30_END --> days
   - Rating/Activity graphs: https://codeforces.com/profile/moohameed
 
   [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhmd_Tal3at90/)
