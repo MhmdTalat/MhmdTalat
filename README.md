@@ -59,8 +59,10 @@
 
 ## 🧩 Problem Solving
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moohameed)
-![Codeforces Rating](https://img.shields.io/codeforces/rating/moohameed?style=flat&logo=codeforces&logoColor=white)
-![Codeforces Max Rating](https://img.shields.io/codeforces/max_rating/moohameed?style=flat&logo=codeforces&logoColor=white)
+![CF Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].rating&label=Codeforces%20Rating&logo=codeforces&color=1F8ACB)
+![CF Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].rank&label=Codeforces%20Rank&logo=codeforces&color=1F8ACB)
+![CF Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRating&label=Max%20Rating&logo=codeforces&color=1F8ACB)
+![CF Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRank&label=Max%20Rank&logo=codeforces&color=1F8ACB)
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhmd_Tal3at90/)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mhmd_Tal3at90?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/mhmd_Tal3at90/)
