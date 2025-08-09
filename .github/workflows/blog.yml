@@ -1,0 +1,14 @@
+name: Update README with latest blog posts
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://YOUR_RSS_FEED_URL"
