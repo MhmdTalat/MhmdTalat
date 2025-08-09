@@ -1,6 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MhmdTalat&color=0e75b6&style=flat)
 
 # Hi, I'm Muhammed Tallat Hassan 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1AD1FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;AI+%26+Data+Science+Enthusiast;Building+OCR+%28Egyptian+ID%29;Always+learning+and+shipping)](https://git.io/typing-svg)
+
 🎯 Full Stack .NET Developer | AI & Data Science Enthusiast  
 🌍 Egypt
 
@@ -45,6 +48,10 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true)
 
 ## 📌 Pinned Projects
+[![OCR_Egyptian_ID](https://github-readme-stats.vercel.app/api/pin/?username=mahmoud6171&repo=OCR_Egyptian_ID&theme=tokyonight)](https://github.com/mahmoud6171/OCR_Egyptian_ID)
+
+🤝 Co-built with [Mahmoud Saeed](https://github.com/mahmoud6171).
+
 [![ECommerceProject](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=ECommerceProject&theme=tokyonight)](https://github.com/MhmdTalat/ECommerceProject)
 [![pharmacy-management-system](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=pharmacy-management-system&theme=tokyonight)](https://github.com/MhmdTalat/pharmacy-management-system)
 [![mhmdtallat-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=mhmdtallat-portfolio&theme=tokyonight)](https://github.com/MhmdTalat/mhmdtallat-portfolio)
