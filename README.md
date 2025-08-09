@@ -64,6 +64,8 @@
 ![CF Max Rating](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRating&label=Max%20Rating&logo=codeforces&color=1F8ACB&v=2)
 ![CF Max Rank](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result[0].maxRank&label=Max%20Rank&logo=codeforces&color=1F8ACB&v=2)
 
+[![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=moohameed&theme=tokyonight)](https://codeforces.com/profile/moohameed)
+
 **Codeforces highlights**
 - Problems solved (all time): 433
 - Last year: 104 · Last month: 6
