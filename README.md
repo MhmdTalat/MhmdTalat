@@ -90,6 +90,10 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## 🐍 Contribution Snake
+![GitHub Snake dark](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg#gh-light-mode-only)
+
 ---
 
 > Profile powered by dynamic cards: stats, streaks, trophies, and activity graphs.
