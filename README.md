@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammed Tallat Hassan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1AD1FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;AI+%26+Data+Science+Enthusiast;Always+learning+and+improving+myself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1AD1FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;AI+%26+Data+Science+Enthusiast;Always+learning+and+improving+myself&v=2)](https://git.io/typing-svg)
 
 🎯 Full Stack .NET Developer | AI & Data Science Enthusiast  
 🌍 Egypt
