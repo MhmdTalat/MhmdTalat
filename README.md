@@ -109,25 +109,15 @@
 
 ---
 
+<blockquote>
+
 ## 🧩 Problem Solving
 
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moohameed)
-![CF Rating](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=<https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result>[0].rating&label=Codeforces%20Rating&logo=codeforces&color=1F8ACB&v=2)
-![CF Rank](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=<https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result>[0].rank&label=Codeforces%20Rank&logo=codeforces&color=1F8ACB&v=2)
+| [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moohameed) <br> ![CF Rating](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=<https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result>[0].rating&label=Codeforces%20Rating&logo=codeforces&color=1F8ACB&v=2) <br> ![CF Rank](https://img.shields.io/badge/dynamic/json?cacheSeconds=300&url=<https://codeforces.com/api/user.info%3Fhandles%3Dmoohameed&query=$.result>[0].rank&label=Codeforces%20Rank&logo=codeforces&color=1F8ACB&v=2) <br> [![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=moohameed&theme=tokyonight)](https://codeforces.com/profile/moohameed) | [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhmd_Tal3at90/) <br> [![LeetCode Stats](https://leetcard.jacoblin.cool/mhmd_Tal3at90?theme=dark&font=Fira%20Code&ext=heatmap&border=0&v=2)](https://leetcode.com/u/mhmd_Tal3at90/) |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 
-### Codeforces quick links
-[Submissions](https://codeforces.com/submissions/moohameed) · [Contests](https://codeforces.com/contests/with/moohameed) · [Problemset](https://codeforces.com/problemset) · [Groups](https://codeforces.com/groups) · [Ratings](https://codeforces.com/ratings)
+</blockquote>
 
-[![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=moohameed&theme=tokyonight)](https://codeforces.com/profile/moohameed)
-
-**Codeforces highlights**
-- Problems solved (all time): <!-- CF_SOLVED_START -->433<!-- CF_SOLVED_END -->
-- Last year: <!-- CF_SOLVED_365_START -->104<!-- CF_SOLVED_365_END --> · Last month: <!-- CF_SOLVED_30_START -->6<!-- CF_SOLVED_30_END -->
-- Max streak: <!-- CF_STREAK_ALL_START -->14<!-- CF_STREAK_ALL_END --> days · Longest last year: <!-- CF_STREAK_365_START -->9<!-- CF_STREAK_365_END --> days · Last month: <!-- CF_STREAK_30_START -->2<!-- CF_STREAK_30_END --> days
-- Rating/Activity graphs: [Codeforces Profile](https://codeforces.com/profile/moohameed)
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhmd_Tal3at90/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mhmd_Tal3at90?theme=dark&font=Fira%20Code&ext=heatmap&border=0&v=2)](https://leetcode.com/u/mhmd_Tal3at90/)
 
 ---
 
