@@ -89,18 +89,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MhmdTalat&theme=onedark&no-frame=true&column=7" />
 </p>
 
-## 📈 Activity Graph
+## 📈 LinkedIn Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true)
-
----
-
-<!-- صورة منشور LinkedIn أو أي منشور عام -->
 <p align="center">
-  <img src="https://your-image-url.com/post_image.jpg" alt="Latest LinkedIn Post" width="500"/>
+  <img src="https://raw.githubusercontent.com/YourUserName/YourRepo/main/images/my-linkedin-activity-graph.png" alt="LinkedIn Activity Graph" width="500"/>
 </p>
 
----
 
 
 <blockquote>
