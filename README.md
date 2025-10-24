@@ -7,7 +7,20 @@
 **🎯 Full Stack .NET Developer | AI & Data Science Enthusiast**  
 **🌍 Location:** Egypt
 
-[Website](https://mhmdtallat-portfolio.web.app/) · [LinkedIn](https://www.linkedin.com/in/muhammed-tallat-a440881b7) · [X](https://twitter.com/MHMD_TAL3AT) · [Facebook](https://www.facebook.com/mohamed.Tallat.104203)
+<p align="left">
+  <a href="https://mhmdtallat-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/My%20Website-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-tallat-a440881b7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/MHMD_TAL3AT">
+    <img src="https://img.shields.io/badge/X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.facebook.com/mohamed.Tallat.104203">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
