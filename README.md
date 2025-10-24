@@ -125,8 +125,10 @@
 ---
 
 ## 📰 Latest Blog Posts
+[تابع أحدث منشوراتي على LinkedIn](https://eg.linkedin.com/in/muhammed-tallat-a440881b7)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 ---
 
