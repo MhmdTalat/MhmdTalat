@@ -9,18 +9,19 @@
 
 <p align="left">
   <a href="https://mhmdtallat-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/My%20Website-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammed-tallat-a440881b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/MHMD_TAL3AT">
-    <img src="https://img.shields.io/badge/X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-1A1A1A?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="https://www.facebook.com/mohamed.Tallat.104203">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-195AB6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
+
 
 ---
 
