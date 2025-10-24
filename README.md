@@ -124,10 +124,16 @@
 
 ---
 
-## 📰 Latest Blog Posts
-[تابع أحدث منشوراتي على LinkedIn](https://eg.linkedin.com/in/muhammed-tallat-a440881b7)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true)
+
+---
+
+<!-- صورة منشور LinkedIn أو أي منشور عام -->
+ 
+
+---
 
 
 ---
