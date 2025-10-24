@@ -94,6 +94,8 @@
 
 ---
 
+<blockquote>
+
 ## 📌 Pinned Projects
 
 [![OCR_Egyptian_ID](https://github-readme-stats.vercel.app/api/pin/?username=mahmoud6171&repo=OCR_Egyptian_ID&theme=tokyonight)](https://github.com/mahmoud6171/OCR_Egyptian_ID)  
@@ -104,6 +106,9 @@
 [![pharmacy-management-system](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=pharmacy-management-system&theme=tokyonight)](https://github.com/MhmdTalat/pharmacy-management-system)  
 [![mhmdtallat-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=mhmdtallat-portfolio&theme=tokyonight)](https://github.com/MhmdTalat/mhmdtallat-portfolio)  
 [![To-Do-List](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=To-Do-List&theme=tokyonight)](https://github.com/MhmdTalat/To-Do-List)
+
+</blockquote>
+
 
 ---
 
