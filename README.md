@@ -147,4 +147,4 @@
 
 ---
 
-> Profile powered by dynamic cards: stats, streaks, trophies, and activity graphs.
+
