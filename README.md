@@ -11,13 +11,17 @@
 
 ---
 
-## 🙋 About me
-- 🔭 Building scalable .NET backends and modern web apps
-- 🤖 Exploring ML workflows and MLOps fundamentals
-- 🧪 Refactoring, testing, and performance tuning enthusiast
+<blockquote>
+
+## 🙋 About Me
+- 🔭 Building scalable .NET backends and modern web apps  
+- 🤖 Exploring ML workflows and MLOps fundamentals  
+- 🧪 Refactoring, testing, and performance tuning enthusiast  
 - 💬 Ask me about: ASP.NET Core, EF Core, REST APIs, SQL Server, Clean Architecture
 
----
+</blockquote>
+
+<blockquote>
 
 ## 🧰 Tech Stack
 
@@ -41,8 +45,12 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-2C3E50?style=flat&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+</blockquote>
 
 ---
 
