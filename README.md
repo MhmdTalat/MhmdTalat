@@ -50,26 +50,16 @@ Nasr City, Cairo, Egypt
 Motivated .NET Developer with two years of experience in full-stack development. Eager to leverage expertise in building scalable, efficient, and secure applications that enhance user experience and drive innovation.
 
 ---
+<blockquote>
 
-**💼 Work Experience**  
+## 💼 Work Experience
 
-**Back End Developer (.NET)**  
-_Egyptian Takaful Insurance_ (April 2025–Present)  
-- Egyptian National ID Back Field Detector (EKYC) – Computer Vision/AI Project  
-  - **Tech:** Python, OpenCV, NumPy, Matplotlib, PIL  
-  - Automated EKYC field extraction from scanned Egyptian ID back images  
-  - Region-based field detection (e.g., religion, profession, address), signature detection  
-  - Visual field overlay, intelligent side classification with confidence scoring
+| خبرة | خبرة |
+|------|------|
+| **Back End Developer (.NET)**<br> _Egyptian Takaful Insurance_ (April 2025–Present) <br> - Egyptian National ID Back Field Detector (EKYC) – Computer Vision/AI Project <br> &nbsp;&nbsp; - **Tech:** Python, OpenCV, NumPy, Matplotlib, PIL <br> &nbsp;&nbsp; - Automated EKYC field extraction ... <br> &nbsp;&nbsp; - Region-based field detection ... <br> &nbsp;&nbsp; - Visual field overlay, intelligent classification <br> - Odoo ERP Website Integration with External Partners <br> &nbsp;&nbsp; - **Tech:** Odoo (Python), PostgreSQL, XML, HTML, JavaScript <br> &nbsp;&nbsp; - Designed custom Odoo modules ... <br> &nbsp;&nbsp; - Automated workflows, partner portal, CRM & invoicing | **Back End Developer (.NET)**<br> _Egyptian Projects Operation and Maintenance Company EPROM_ (June 2021 - September 2021) |
 
-- Odoo ERP Website Integration with External Partners (Business Integration Project)  
-  - **Tech:** Odoo (Python), PostgreSQL, XML, HTML, JavaScript  
-  - Designed custom Odoo modules for partner onboarding  
-  - Automated workflows for service requests, web portal for partner access, integrated CRM & invoicing
+</blockquote>
 
-**Back End Developer (.NET)**  
-_Egyptian Projects Operation and Maintenance Company EPROM_ (June 2021 - September 2021)
-
----
 
 **🎓 Education**  
 
