@@ -89,12 +89,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MhmdTalat&theme=onedark&no-frame=true&column=7" />
 </p>
 
-## 📈 LinkedIn Activity Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourUserName/YourRepo/main/images/my-linkedin-activity-graph.png" alt="LinkedIn Activity Graph" width="500"/>
-</p>
-
+ 
 
 
 <blockquote>
