@@ -85,9 +85,7 @@
 <p align="left">
   <img height="160" src="https://streak-stats.demolab.com?user=MhmdTalat&theme=tokyonight&hide_border=true" />
 </p>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MhmdTalat&theme=onedark&no-frame=true&column=7" />
-</p>
+
 
  
 
