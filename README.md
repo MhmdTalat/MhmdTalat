@@ -80,16 +80,6 @@
 
 ---
 
-## 🔥 Streak & Trophies
-
-<p align="left">
-  <img height="160" src="https://streak-stats.demolab.com?user=MhmdTalat&theme=tokyonight&hide_border=true" />
-</p>
-
-
- 
-
-
 <blockquote>
 
 ## 📌 Pinned Projects
