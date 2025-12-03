@@ -100,7 +100,7 @@
 <td width="50%" valign="top">
 
 **🛒 E-Commerce API**  
-[![E-Commerce-API](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=E-Commerce-API---Scalable-Secure-Shopping-Platform-&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/E-Commerce-API---Scalable-Secure-Shopping-Platform-)
+[![E-Commerce-API]](https://github.com/MhmdTalat/E-Commerce-API---Scalable-Secure-Shopping-Platform-)
 
 *Scalable & secure shopping platform*
 
