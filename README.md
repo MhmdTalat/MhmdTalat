@@ -111,7 +111,7 @@
 <td width="50%" valign="top">
 
 **🛍️ E-Commerce Platform**  
-[![ECommerceProject](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=ECommerceProject&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/ECommerceProject)
+[![ECommerceProject]](https://github.com/MhmdTalat/ECommerceProject)
 
 *Full-featured online store solution*
 
@@ -119,7 +119,7 @@
 <td width="50%" valign="top">
 
 **💊 Pharmacy Management**  
-[![pharmacy-management-system](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=pharmacy-management-system&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/pharmacy-management-system)
+[![pharmacy-management-system]](https://github.com/MhmdTalat/pharmacy-management-system)
 
 *Healthcare inventory & sales system*
 
@@ -130,7 +130,7 @@
 <td width="50%" valign="top">
 
 **🌐 Personal Portfolio**  
-[![mhmdtallat-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=mhmdtallat-portfolio&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/mhmdtallat-portfolio)
+[![mhmdtallat-portfolio]](https://github.com/MhmdTalat/mhmdtallat-portfolio)
 
 *Modern portfolio showcase*
 
@@ -138,7 +138,7 @@
 <td width="50%" valign="top">
 
 **✅ Task Manager**  
-[![To-Do-List](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=To-Do-List&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/To-Do-List)
+[![To-Do-List]](https://github.com/MhmdTalat/To-Do-List)
 
 *Productivity tracking application*
 
