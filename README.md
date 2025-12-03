@@ -91,7 +91,7 @@
 <td width="50%" valign="top">
 
 **🔍 OCR Egyptian ID**  
-[![OCR_Egyptian_ID](https://github-readme-stats.vercel.app/api/pin/?username=mahmoud6171&repo=OCR_Egyptian_ID&theme=tokyonight&border_radius=10)](https://github.com/mahmoud6171/OCR_Egyptian_ID)
+[![OCR_Egyptian_ID]](https://github.com/mahmoud6171/OCR_Egyptian_ID)
 
 *Intelligent ID recognition system*  
 🤝 Co-built with [Mahmoud Saeed](https://github.com/mahmoud6171)
