@@ -80,18 +80,73 @@
 
 ---
 
-<blockquote>
-
 ## 📌 Pinned Projects
 
-|                                  |                                  |
-|----------------------------------|----------------------------------|
-| [![OCR_Egyptian_ID](https://github-readme-stats.vercel.app/api/pin/?username=mahmoud6171&repo=OCR_Egyptian_ID&theme=tokyonight)](https://github.com/mahmoud6171/OCR_Egyptian_ID) <br> 🤝 Co-built with [Mahmoud Saeed](https://github.com/mahmoud6171). | [![E-Commerce-API---Scalable-Secure-Shopping-Platform-](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=E-Commerce-API---Scalable-Secure-Shopping-Platform-&theme=tokyonight)](https://github.com/MhmdTalat/E-Commerce-API---Scalable-Secure-Shopping-Platform-) |
-| [![ECommerceProject](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=ECommerceProject&theme=tokyonight)](https://github.com/MhmdTalat/ECommerceProject) | [![pharmacy-management-system](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=pharmacy-management-system&theme=tokyonight)](https://github.com/MhmdTalat/pharmacy-management-system) |
-| [![mhmdtallat-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=mhmdtallat-portfolio&theme=tokyonight)](https://github.com/MhmdTalat/mhmdtallat-portfolio) | [![To-Do-List](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=To-Do-List&theme=tokyonight)](https://github.com/MhmdTalat/To-Do-List) |
+<div align="center">
 
-</blockquote>
+### 🔥 Featured Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 OCR Egyptian ID**  
+[![OCR_Egyptian_ID](https://github-readme-stats.vercel.app/api/pin/?username=mahmoud6171&repo=OCR_Egyptian_ID&theme=tokyonight&border_radius=10)](https://github.com/mahmoud6171/OCR_Egyptian_ID)
+
+*Intelligent ID recognition system*  
+🤝 Co-built with [Mahmoud Saeed](https://github.com/mahmoud6171)
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 E-Commerce API**  
+[![E-Commerce-API](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=E-Commerce-API---Scalable-Secure-Shopping-Platform-&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/E-Commerce-API---Scalable-Secure-Shopping-Platform-)
+
+*Scalable & secure shopping platform*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**🛍️ E-Commerce Platform**  
+[![ECommerceProject](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=ECommerceProject&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/ECommerceProject)
+
+*Full-featured online store solution*
+
+</td>
+<td width="50%" valign="top">
+
+**💊 Pharmacy Management**  
+[![pharmacy-management-system](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=pharmacy-management-system&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/pharmacy-management-system)
+
+*Healthcare inventory & sales system*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Personal Portfolio**  
+[![mhmdtallat-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=mhmdtallat-portfolio&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/mhmdtallat-portfolio)
+
+*Modern portfolio showcase*
+
+</td>
+<td width="50%" valign="top">
+
+**✅ Task Manager**  
+[![To-Do-List](https://github-readme-stats.vercel.app/api/pin/?username=MhmdTalat&repo=To-Do-List&theme=tokyonight&border_radius=10)](https://github.com/MhmdTalat/To-Do-List)
+
+*Productivity tracking application*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
