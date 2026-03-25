@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1AD1FF&center=true&vCenter=true&width=600&lines=Back+End+.NET+Developer;AI+%26+Data+Science+Enthusiast;Always+learning+and+improving+myself&v=2)](https://git.io/typing-svg)
 
-**🎯 Back End .NET Developer | AI & Data Science Enthusiast**  
+**🎯 Full Stack Developer | AI & Data Science Enthusiast**  
 **🌍 Location:** Egypt
 
 <p align="left">
