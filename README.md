@@ -28,7 +28,7 @@
 <blockquote>
 
 ## 🙋 About Me
-- 🔭 Building scalable .NET backends and modern web apps  
+- 🔭 Building scalable Full Stack Developer and modern web apps  
 - 🤖 Exploring ML workflows and MLOps fundamentals  
 - 🧪 Refactoring, testing, and performance tuning enthusiast  
 - 💬 Ask me about: ASP.NET Core, EF Core, REST APIs, SQL Server, Clean Architecture
