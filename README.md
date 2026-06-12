@@ -35,7 +35,7 @@
 - 🤖 Exploring ML workflows and MLOps fundamentals
 - 🧪 Refactoring, testing, and performance tuning enthusiast
 - 💬 Ask me about: **ASP.NET Core, EF Core, REST APIs, SQL Server, Clean Architecture**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/muhammed-tallat-a440881b7) or [Portfolio](https://mhmdtallat-portfolio.web.app/)
+- 📫 Reach me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-tallat-a440881b7) or [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://mhmdtallat-portfolio.web.app/)
 
 ---
 
