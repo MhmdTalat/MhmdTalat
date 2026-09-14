@@ -198,13 +198,13 @@ Productivity and task tracking application.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Stats"
     height="165"
   />
 
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=MhmdTalat&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MhmdTalat&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Streak"
     height="165"
   />
@@ -212,7 +212,7 @@ Productivity and task tracking application.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="Top Languages"
     height="165"
   />
@@ -250,7 +250,7 @@ Productivity and task tracking application.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true&cache_seconds=86400"
     alt="GitHub Activity Graph"
   />
 </p>
