@@ -194,6 +194,32 @@ Productivity and task tracking application.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MhmdTalat&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
+
+---
+
 ## 🧩 Problem Solving
 
 <table align="center">
@@ -220,7 +246,7 @@ Productivity and task tracking application.
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Activity Graph
 
 <p align="center">
   <img
@@ -242,18 +268,9 @@ Productivity and task tracking application.
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg">
   </picture>
 </p>
 
