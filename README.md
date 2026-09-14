@@ -198,7 +198,7 @@ Productivity and task tracking application.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     height="165"
   />
@@ -212,7 +212,7 @@ Productivity and task tracking application.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="165"
   />
