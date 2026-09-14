@@ -250,7 +250,7 @@ Productivity and task tracking application.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true&cache_seconds=86400"
+    src="https://fabianocouto-activity-graph.vercel.app/graph/?username=MhmdTalat&theme=tokyo-night&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
