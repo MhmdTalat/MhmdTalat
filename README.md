@@ -164,14 +164,29 @@ Productivity tracking application
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmdTalat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MhmdTalat&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+
+  <br />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+
+</div>
 
 ---
 
