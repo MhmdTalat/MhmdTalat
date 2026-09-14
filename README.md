@@ -4,7 +4,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1AD1FF&center=true&vCenter=true&width=600&lines=Back+End+.NET+Developer;AI+%26+Data+Science+Enthusiast;Always+learning+and+improving+myself&v=2" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1AD1FF&center=true&vCenter=true&width=600&lines=Back+End+.NET+Developer;AI+%26+Data+Science+Enthusiast;Always+learning+and+improving+myself&v=2"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -13,21 +16,37 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yan-hattingh/yan-hattingh/master/coder.gif" width="400" alt="Coding animation"/>
+  <img
+    src="https://raw.githubusercontent.com/yan-hattingh/yan-hattingh/master/coder.gif"
+    width="400"
+    alt="Coding animation"
+  />
 </p>
 
 <p align="center">
   <a href="https://mhmdtallat-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/muhammed-tallat-a440881b7">
-    <img src="https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://twitter.com/MHMD_TAL3AT">
-    <img src="https://img.shields.io/badge/X-1A1A1A?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    <img
+      src="https://img.shields.io/badge/X-1A1A1A?style=for-the-badge&logo=x&logoColor=white"
+      alt="X (Twitter)"
+    />
   </a>
   <a href="https://www.facebook.com/mohamed.Tallat.104203">
-    <img src="https://img.shields.io/badge/Facebook-195AB6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img
+      src="https://img.shields.io/badge/Facebook-195AB6?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
   </a>
 </p>
 
@@ -35,11 +54,11 @@
 
 ## 🙋 About Me
 
-- 🔭 Building scalable Full Stack apps and modern web solutions
-- 🤖 Exploring ML workflows and MLOps fundamentals
-- 🧪 Refactoring, testing, and performance tuning enthusiast
-- 💬 Ask me about: **ASP.NET Core, EF Core, REST APIs, SQL Server, Clean Architecture**
-- 📫 Reach me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-tallat-a440881b7) or [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://mhmdtallat-portfolio.web.app/)
+- 🔭 Building scalable Full Stack applications and modern web solutions
+- 🤖 Exploring Machine Learning workflows and MLOps fundamentals
+- 🧪 Interested in clean code, testing, refactoring, and performance optimization
+- 💬 Ask me about **ASP.NET Core, EF Core, REST APIs, SQL Server, Oracle, and Clean Architecture**
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/muhammed-tallat-a440881b7) or my [Portfolio](https://mhmdtallat-portfolio.web.app/)
 
 ---
 
@@ -69,6 +88,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 </details>
 
@@ -81,8 +102,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-</details>
 
+</details>
 
 <details open>
 <summary><b>Databases</b></summary>
@@ -96,6 +117,7 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
 
 </details>
+
 ---
 
 ## 📌 Pinned Projects
@@ -105,18 +127,22 @@
 <td width="50%" valign="top">
 
 ### 🔍 OCR Egyptian ID
-Intelligent ID recognition system
+
+Intelligent Egyptian ID recognition system.
+
 🤝 Co-built with [Mahmoud Saeed](https://github.com/mahmoud6171)
 
-🔗 [Repo](https://github.com/mahmoud6171/OCR_Egyptian_ID)
+🔗 [Repository](https://github.com/mahmoud6171/OCR_Egyptian_ID)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce API
-Scalable & secure shopping platform
 
-🔗 [Repo](https://github.com/MhmdTalat/E-Commerce-API---Scalable-Secure-Shopping-Platform-)
+Scalable and secure shopping platform API.
+
+🔗 [Repository](https://github.com/MhmdTalat/E-Commerce-API---Scalable-Secure-Shopping-Platform-)
 
 </td>
 </tr>
@@ -125,17 +151,20 @@ Scalable & secure shopping platform
 <td width="50%" valign="top">
 
 ### 🛍️ E-Commerce Platform
-Full-featured online store solution
 
-🔗 [Repo](https://github.com/MhmdTalat/ECommerceProject)
+Full-featured online store solution.
+
+🔗 [Repository](https://github.com/MhmdTalat/ECommerceProject)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💊 Pharmacy Management
-Healthcare inventory & sales system
 
-🔗 [Repo](https://github.com/MhmdTalat/pharmacy-management-system)
+Healthcare inventory and sales management system.
+
+🔗 [Repository](https://github.com/MhmdTalat/pharmacy-management-system)
 
 </td>
 </tr>
@@ -144,17 +173,20 @@ Healthcare inventory & sales system
 <td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
-Modern portfolio showcase
 
-🔗 [Repo](https://github.com/MhmdTalat/mhmdtallat-portfolio)
+Modern developer portfolio showcase.
+
+🔗 [Repository](https://github.com/MhmdTalat/mhmdtallat-portfolio)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ✅ Task Manager
-Productivity tracking application
 
-🔗 [Repo](https://github.com/MhmdTalat/To-Do-List)
+Productivity and task tracking application.
+
+🔗 [Repository](https://github.com/MhmdTalat/To-Do-List)
 
 </td>
 </tr>
@@ -165,12 +197,25 @@ Productivity tracking application
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmdTalat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MhmdTalat&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MhmdTalat&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdTalat&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
 
 ---
@@ -179,6 +224,7 @@ Productivity tracking application
 
 <table align="center">
 <tr>
+
 <td align="center" valign="top">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moohameed)
@@ -186,6 +232,7 @@ Productivity tracking application
 [![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=moohameed&theme=tokyonight)](https://codeforces.com/profile/moohameed)
 
 </td>
+
 <td align="center" valign="top">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhmd_Tal3at90/)
@@ -193,6 +240,7 @@ Productivity tracking application
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mhmd_Tal3at90?theme=dark&font=Fira%20Code&ext=heatmap&border=0&v=2)](https://leetcode.com/u/mhmd_Tal3at90/)
 
 </td>
+
 </tr>
 </table>
 
@@ -200,11 +248,17 @@ Productivity tracking application
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MhmdTalat&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
 ## ⚙️ Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -212,8 +266,16 @@ Productivity tracking application
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg#gh-light-mode-only)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg">
+  </picture>
+</p>
 
 ---
 
-<p align="center"><i>Thanks for visiting — feel free to ⭐ my repos!</i></p>
+<p align="center">
+  <i>Thanks for visiting — feel free to ⭐ my repositories!</i>
+</p>
