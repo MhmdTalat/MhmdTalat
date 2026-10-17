@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=MhmdTalat&color=0e75b6&style=flat)
+
 
 <h1 align="center">Hi 👋, I'm Muhammed Tallat Hassan</h1>
 
